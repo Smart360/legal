@@ -202,7 +202,7 @@ specified purposes and in accordance with our instructions.
 
 The data that we collect from you may only be processed in locations which have
 adequate protection. Whenever Smart360 stores and/or processed personal
-information outside the EEA, it will do so on the basis of the EU standard
+data outside the EEA, it will do so on the basis of the EU standard
 contractual clauses or the Privacy Shield Framework.
 
 9\. Security controls
@@ -229,7 +229,7 @@ breach within 72 hours where we are legally required to do so.
 **Your duty to inform us of changes**
 
 It is important that the personal data we hold about you is accurate and
-current. Should your personal information change, please notify us of any
+current. Should your information change, please notify us of any
 changes of which we need to be made aware by contacting us, using the contact
 details below.
 
@@ -253,7 +253,7 @@ Under certain circumstances, by law you have the right to:
     legitimate interest (or those of a third party) and there is something about
     your particular situation which makes you want to object to processing on
     this basis. You also have the right to object where we are processing your
-    personal information for direct marketing purposes.
+    personal data for direct marketing purposes.
 
 -   **Request the restriction of processing of your personal data.** This
     enables you to ask us to suspend the processing of personal data about you,
@@ -275,7 +275,7 @@ refuse to comply with the request in such circumstances.
 We may need to request specific information from you to help us confirm your
 identity and ensure your right to access the information (or to exercise any of
 your other rights). This is another appropriate security measure to ensure that
-personal information is not disclosed to any person who has no right to receive
+personal data is not disclosed to any person who has no right to receive
 it.
 
 11\. Right to withdraw consent
@@ -289,7 +289,7 @@ specific processing at any time. To withdraw your consent, please notify us
 using the details at the end of this notice.
 
 Once we have received notification that you have withdrawn your consent, we will
-no longer process your personal information (personal data) for the purpose or
+no longer process your personal data for the purpose or
 purposes you originally agreed to, unless we have another legitimate basis for
 doing so in law.
 
