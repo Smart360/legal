@@ -1,7 +1,7 @@
 Cookie Statement for Smart360
 =============================
 
-We detail below the cookies used our Website. 
+We detail below the cookies used on this website. 
 
 As a general principal we do not use any cookies that collect information to serve you interest-based ads. 
 
