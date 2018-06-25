@@ -313,19 +313,16 @@ If you have any questions regarding this notice or if you would like to speak to
 us about the manner in which we process your personal data, please email our
 Privacy Officer:
 
-privacy\@smart-360.co.uk
+<privacy@smart-360.co.uk>
 
 You also have the right to make a complaint to the following authority in
 respect of Data Protection:
 
 **Office of the Information Commissioner**
 
-Brunel House
-
-Old Street
-
-St Helier
-
-Jersey JE2 3RG.
+Brunel House  
+Old Street  
+St Helier  
+Jersey, JE2 3RG
 
 Email: <enquiries@oicjersey.org>
