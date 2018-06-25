@@ -31,6 +31,8 @@ Email caveats
 
 Email is a widely used business communications medium, but it has shortcomings. Smart360 correspondents should be aware of the following potential issues: 
 
+| Flaw | Comments |
+|---------|----------------|
 | Privacy |  Parties other than the intended receiver may be able to read email transcripts. As messages traverse the Internet they are sometimes stored and forwarded via intermediate servers, allowing for a 3rd party to record or tamper with the message while it is in transit. |
 | Message flow confidentiality | A third party might be able to identify that an email was sent, and who the parties were. Even if the message body remains confidential, someone may be able to know that a communication occurred. |
 | Authentication | The receiver cannot necessarily verify the identity of the sender.	|
