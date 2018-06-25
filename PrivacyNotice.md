@@ -37,12 +37,11 @@ personal data and how we will treat it.
 Smart360 is a professional services firm. We offer IT support and managed security services, as well as offering data protection advice.
 Our registered office is at Suite 12 Bourne House,
 Francis Street, St. Helier, Jersey, JE2 4QE. Smart360 are registered with the
-Office of the Information Commissioner under notification №58854. For the
-avoidance of doubt Smart360 does not perform any activities that would be
+Office of the Information Commissioner under notification [№58854](https://oicjersey.org/online-notification/#/search/detail/58854). For the avoidance of doubt Smart360 does not perform any activities that would be
 regulated within the scope of the telecommunications or financial services acts
 of Jersey.
 
-In the context of this notice and the Data Protection (Jersey) Law 2018, we are
+In the context of this notice and the Data Protection Legislation, we are
 a ‘Data Controller’. We are responsible for deciding how we hold and use your
 personal data.
 
@@ -315,7 +314,7 @@ Privacy Officer:
 <privacy@smart-360.co.uk>
 
 You also have the right to make a complaint to the following authority in
-respect of Data Protection:
+respect of data protection:
 
 **Office of the Information Commissioner**  
 Brunel House  
