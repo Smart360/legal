@@ -24,10 +24,9 @@ Our approach to handling personal data:
 --------------------------
 
 This notice describes how we collect and use personal data about you, in
-accordance with the EU General Data Protection Regulation (GDPR), the Data
-Protection (Jersey) Law 2018 (and amendments thereto) (the law) and any other
-national implementing laws, regulations and secondary legislation, as amended or
-updated from time to time, in Jersey (‘Data Protection Legislation’).
+accordance with the [EU General Data Protection Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN) (GDPR), the [Data
+Protection (Jersey) Law 2018](https://www.jerseylaw.je/laws/enacted/Pages/L-03-2018.aspx) (and amendments thereto) (the law) and any other national implementing laws, regulations and secondary legislation, as amended or
+updated from time to time, in Jersey ('Data Protection Legislation').
 
 Please read the following carefully to understand our practices regarding your
 personal data and how we will treat it.
@@ -35,8 +34,8 @@ personal data and how we will treat it.
 3\. About us
 ------------
 
-Smart360 is a B2B managed services provider, including IT support, cyber
-security and data protection. Our registered office is at Suite 12 Bourne House,
+Smart360 is a professional services firm. We offer IT support and managed security services, as well as offering data protection advice.
+Our registered office is at Suite 12 Bourne House,
 Francis Street, St. Helier, Jersey, JE2 4QE. Smart360 are registered with the
 Office of the Information Commissioner under notification №58854. For the
 avoidance of doubt Smart360 does not perform any activities that would be
