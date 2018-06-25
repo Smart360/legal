@@ -1,9 +1,8 @@
----
-title: Privacy Notice for Smart360
----
+Privacy Notice for Smart360
+===========================
 
 1\. Summary Statement
-====================
+---------------------
 
 General types of personal data we collect:
 
@@ -22,7 +21,7 @@ Our approach to handling personal data:
 - Proper legal process is followed if we are ever required to share data with law enforcement.
 
 2\. Purpose of this notice
-=========================
+--------------------------
 
 This notice describes how we collect and use personal data about you, in
 accordance with the EU General Data Protection Regulation (GDPR), the Data
@@ -34,7 +33,7 @@ Please read the following carefully to understand our practices regarding your
 personal data and how we will treat it.
 
 3\. About us
-===========
+------------
 
 Smart360 is a B2B managed services provider, including IT support, cyber
 security and data protection. Our registered office is at Suite 12 Bourne House,
@@ -56,7 +55,7 @@ data protection and privacy. Should you wish to contact our Privacy Officer you
 can do so using the contact details noted in section 13 (Contact Us), below.
 
 4\. How we may collect your personal data
-========================================
+-----------------------------------------
 
 We obtain personal data about, for example, when:
 
@@ -73,7 +72,7 @@ We obtain personal data about, for example, when:
     directories, or online social platforms.
 
 5\. The kind of information we hold about you
-============================================
+---------------------------------------------
 
 The information we hold about you may include the following:
 
@@ -92,7 +91,7 @@ The information we hold about you may include the following:
     information or information provided by our clients.
 
 6\. How we use your personal data
-================================
+---------------------------------
 
 We may process your personal data for the purposes necessary for the performance
 of our contract with you. This may include processing your personal data where
@@ -180,7 +179,7 @@ notify you and communicate the legal basis which allows us to do so before
 starting any new processing.
 
 7\. Data sharing
-===============
+----------------
 
 **Why might you share my personal data with third parties?**
 
@@ -201,7 +200,7 @@ only permit our third-party service providers to process your personal data for
 specified purposes and in accordance with our instructions.
 
 8\. Transfers of personal data
-=============================
+------------------------------
 
 The data that we collect from you may only be processed in locations which have
 adequate protection. Whenever Smart360 stores and/or processed personal
@@ -209,7 +208,7 @@ information outside the EEA, it will do so on the basis of the EU standard
 contractual clauses or the Privacy Shield Framework.
 
 9\. Security controls
-====================
+---------------------
 
 We take all reasonable steps to protect information we receive from you from
 loss, misuse or unauthorized access, disclosure, alteration, and/or destruction.
@@ -227,7 +226,7 @@ breach and will notify our local Data Protection Authority of any suspected
 breach within 72 hours where we are legally required to do so.
 
 10\. Rights of access, correction, erasure and restriction 
-==========================================================
+----------------------------------------------------------
 
 **Your duty to inform us of changes**
 
@@ -282,7 +281,7 @@ personal information is not disclosed to any person who has no right to receive
 it.
 
 11\. Right to withdraw consent
-=============================
+------------------------------
 
 In the limited circumstances where you may have provided your consent to the
 collection, processing and transfer of your personal data for a specific purpose
@@ -297,7 +296,7 @@ purposes you originally agreed to, unless we have another legitimate basis for
 doing so in law.
 
 12\. Changes to this notice
-==========================
+---------------------------
 
 Any changes we may make to our privacy notice in the future will be updated on
 our website at [www.smart-360.co.uk/privacy](http://www.smart-360.co.uk/privacy)
@@ -308,7 +307,7 @@ We may assign or transfer this policy in the event of a merger, sale, change in
 control, or reorganization of all our part of our business.
 
 13\. Contact us
-==============
+---------------
 
 If you have any questions regarding this notice or if you would like to speak to
 us about the manner in which we process your personal data, please email our
