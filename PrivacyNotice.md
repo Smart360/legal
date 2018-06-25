@@ -220,7 +220,7 @@ your personal data on our instructions and they are subject to a duty of
 confidentiality.
 
 We have also put in place procedures to deal with any suspected data security
-breach and will notify our local Data Protection Authority of any suspected
+breach and will notify our local [Data Protection Authority](https://oicjersey.org/breach-reporting/) of any suspected
 breach within 72 hours where we are legally required to do so.
 
 10\. Your rights 
