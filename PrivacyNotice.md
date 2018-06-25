@@ -319,7 +319,6 @@ You also have the right to make a complaint to the following authority in
 respect of Data Protection:
 
 **Office of the Information Commissioner**
-
 Brunel House  
 Old Street  
 St Helier  
