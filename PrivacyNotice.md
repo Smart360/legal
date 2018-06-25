@@ -2,7 +2,7 @@
 title: Privacy Notice for Smart360
 ---
 
-1. Summary Statement
+1\. Summary Statement
 ====================
 
 General types of personal data we collect:
@@ -21,7 +21,7 @@ Our approach to handling personal data:
 
 - Proper legal process is followed if we are ever required to share data with law enforcement.
 
-2. Purpose of this notice
+2\. Purpose of this notice
 =========================
 
 This notice describes how we collect and use personal data about you, in
@@ -33,7 +33,7 @@ updated from time to time, in Jersey (‘Data Protection Legislation’).
 Please read the following carefully to understand our practices regarding your
 personal data and how we will treat it.
 
-3. About us
+3\. About us
 ===========
 
 Smart360 is a B2B managed services provider, including IT support, cyber
@@ -55,7 +55,7 @@ Our Privacy Officer is responsible for assisting with enquiries in relation to
 data protection and privacy. Should you wish to contact our Privacy Officer you
 can do so using the contact details noted in section 13 (Contact Us), below.
 
-4. How we may collect your personal data
+4\. How we may collect your personal data
 ========================================
 
 We obtain personal data about, for example, when:
@@ -72,7 +72,7 @@ We obtain personal data about, for example, when:
     your employer or from the Jersey Companies Registry, Google, online
     directories, or online social platforms.
 
-5. The kind of information we hold about you
+5\. The kind of information we hold about you
 ============================================
 
 The information we hold about you may include the following:
@@ -91,7 +91,7 @@ The information we hold about you may include the following:
 -   information we receive from other sources, such as publicly available
     information or information provided by our clients.
 
-6. How we use your personal data
+6\. How we use your personal data
 ================================
 
 We may process your personal data for the purposes necessary for the performance
@@ -179,7 +179,7 @@ Should it be necessary to use your personal data for a new purpose, we will
 notify you and communicate the legal basis which allows us to do so before
 starting any new processing.
 
-7. Data sharing
+7\. Data sharing
 ===============
 
 **Why might you share my personal data with third parties?**
@@ -200,7 +200,7 @@ reasonable and appropriate security measures to protect your personal data. We
 only permit our third-party service providers to process your personal data for
 specified purposes and in accordance with our instructions.
 
-8. Transfers of personal data
+8\. Transfers of personal data
 =============================
 
 The data that we collect from you may only be processed in locations which have
@@ -208,7 +208,7 @@ adequate protection. Whenever Smart360 stores and/or processed personal
 information outside the EEA, it will do so on the basis of the EU standard
 contractual clauses or the Privacy Shield Framework.
 
-9. Security controls
+9\. Security controls
 ====================
 
 We take all reasonable steps to protect information we receive from you from
@@ -226,7 +226,7 @@ We have also put in place procedures to deal with any suspected data security
 breach and will notify our local Data Protection Authority of any suspected
 breach within 72 hours where we are legally required to do so.
 
-10. Rights of access, correction, erasure and restriction 
+10\. Rights of access, correction, erasure and restriction 
 ==========================================================
 
 **Your duty to inform us of changes**
@@ -281,7 +281,7 @@ your other rights). This is another appropriate security measure to ensure that
 personal information is not disclosed to any person who has no right to receive
 it.
 
-11. Right to withdraw consent
+11\. Right to withdraw consent
 =============================
 
 In the limited circumstances where you may have provided your consent to the
@@ -296,7 +296,7 @@ no longer process your personal information (personal data) for the purpose or
 purposes you originally agreed to, unless we have another legitimate basis for
 doing so in law.
 
-12. Changes to this notice
+12\. Changes to this notice
 ==========================
 
 Any changes we may make to our privacy notice in the future will be updated on
@@ -307,7 +307,7 @@ This privacy notice was last updated on 20th June 2018.
 We may assign or transfer this policy in the event of a merger, sale, change in
 control, or reorganization of all our part of our business.
 
-13. Contact us
+13\. Contact us
 ==============
 
 If you have any questions regarding this notice or if you would like to speak to
