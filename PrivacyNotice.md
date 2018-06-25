@@ -71,8 +71,8 @@ We obtain personal data about, for example, when:
     your employer or from the Jersey Companies Registry, Google, online
     directories, or online social platforms.
 
-5\. The kind of information we hold about you
----------------------------------------------
+5\. Types of information we hold
+--------------------------------
 
 The information we hold about you may include the following:
 
@@ -225,8 +225,8 @@ We have also put in place procedures to deal with any suspected data security
 breach and will notify our local Data Protection Authority of any suspected
 breach within 72 hours where we are legally required to do so.
 
-10\. Rights of access, correction, erasure and restriction 
-----------------------------------------------------------
+10\. Your rights 
+----------------
 
 **Your duty to inform us of changes**
 
@@ -301,7 +301,7 @@ doing so in law.
 Any changes we may make to our privacy notice in the future will be updated on
 our website at [www.smart-360.co.uk/privacy](http://www.smart-360.co.uk/privacy)
 
-This privacy notice was last updated on 20th June 2018.
+You can track changes to this notice via our [github repository](https://github.com/Smart360/legal/).
 
 We may assign or transfer this policy in the event of a merger, sale, change in
 control, or reorganization of all our part of our business.
