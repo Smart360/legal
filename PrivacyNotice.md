@@ -35,8 +35,7 @@ personal data and how we will treat it.
 ------------
 
 Smart360 is a professional services firm. We offer IT support and managed security services, as well as offering data protection advice.
-Our registered office is at Suite 12 Bourne House,
-Francis Street, St. Helier, Jersey, JE2 4QE. Smart360 are registered with the
+Our registered office is at Suite 6, Augres House, 16 Dumaresq Street, St. Helier, JE2 3RL. Smart360 are registered with the
 [Office of the Information Commissioner](https://oicjersey.org/about-us/) under notification [№58854](https://oicjersey.org/online-notification/#/search/detail/58854). For the avoidance of doubt Smart360 does not perform any activities that would be
 regulated within the scope of the telecommunications or financial services acts
 of Jersey.
